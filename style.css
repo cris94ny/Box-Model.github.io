@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+    height: 200px;
+}
+
+h3{
+  border:1px black dashed;
+  padding:10px;
+}
+
+p{
+  border:1px black dashed;
+  padding:5px;
+  margin:5px;
+}
+
+img{
+  border:1px black dashed;
+  padding:5px;
+  margin:5px;
+}
+
+.doggy{
+  border:5px blue double;
+  padding:5px;
+  margin:5px;
+}
+
+.kitty{
+  border:5px green inset;
+  padding:5px;
+  margin:5px;
+}
+
+#kitty2{
+  margin-left:-1px;
+}
